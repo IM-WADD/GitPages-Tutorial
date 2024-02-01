@@ -19,11 +19,14 @@ For WADD, we can edit our repository settings to be able to view our code as a w
 7. Name your file index.html. 
 8. Add this code to your index.html file. You can do this directly in the broswer by editing the file you have created.
 ```
- <html>
+<!doctype html>
+<html lang="en">
   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>YOUR TITLE HERE</title>
   </head>
   <body>
-    <h1>Hello WADD World!</h1>
   </body>
 </html>
 ```
