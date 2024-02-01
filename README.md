@@ -2,7 +2,7 @@
 
 Hopefully you are all comfortable with using Git in MPIE. If not, now is the time to go do [this tutorial](https://github.com/UoY-IM-MPIE/mpie-git-tutorial). Once done, come back here! 
 
-In WADD, we are going to be using GitHub for our practicals. Much like MPIE, each practical task and associated files will be available as sepereate repositories. As usual, you should copy the repository for the practical in your own GitHub account with the "use this template button". 
+In WADD, we are going to be using GitHub for our practicals. Much like MPIE, each practical task and associated files will be available as separate repositories. As usual, you should copy the repository for the practical in your own GitHub account with the "use this template button". 
 
 For WADD, we can edit our repository settings to be able to view our code as a website, a feature known as GitHub Pages. You can then edit, push and see your changes live. This tutorial will walk you through the steps to be able to do this. 
 
@@ -11,7 +11,7 @@ For WADD, we can edit our repository settings to be able to view our code as a w
    - ![Screenshot of Github top navbar, highlighting settings button](https://github.com/IM-WADD/GitPages-Tutorial/assets/5978932/9ba2e74b-8966-4be9-b476-e5eddedad795)
 3. Go to the 'Pages' section:
    - ![Screenshot of settings menu, Pages menu item highlighted](https://github.com/IM-WADD/GitPages-Tutorial/assets/5978932/b364de3b-b56f-4651-ba78-43e75863428b)
-4. Under 'Branch' selected the main branch and click Save.
+4. Under 'Branch' select the main branch and click Save.
    - ![Screenshot of updating the main branch for GitPages](https://github.com/IM-WADD/GitPages-Tutorial/assets/5978932/37a4e5f5-463f-4789-987f-7e8f50b8aa74)
 5. Your repository is now setup for Git Pages. However, we don't have anything to show on the website yet! The next step is to create an html page for your website.
 6. Go back to the 'Code' page of your repository and create a new file.
