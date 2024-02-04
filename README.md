@@ -6,7 +6,8 @@ In WADD, we are going to be using GitHub for our practicals. Much like MPIE, eac
 
 For WADD, we can edit our repository settings to be able to view our code as a website, a feature known as GitHub Pages. You can then edit, push and see your changes live. This tutorial will walk you through the steps to be able to do this. 
 
-1. Click the "use this template" button and copy this repository to your own account.
+1. Click the "use this template" button and copy this repository to your own account. **Make sure you make the repository public. Git Pages does not work with private repositories unless you have GitHub Pro**
+   - You can get GitHub pro by signing up for the GitHub education package using your York email acount. 
 2. Go to the settings page:
    - ![Screenshot of Github top navbar, highlighting settings button](https://github.com/IM-WADD/GitPages-Tutorial/assets/5978932/9ba2e74b-8966-4be9-b476-e5eddedad795)
 3. Go to the 'Pages' section:
